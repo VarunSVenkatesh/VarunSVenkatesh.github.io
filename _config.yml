@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:Working with wood and data  - Dr Varun Venkatesh
-email: varun.venkatesh@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# Below I added the notes about modifying the .yml file
+# this means to ignore newlines until "baseurl:"
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
+
+title: Working with wood and data
+email: varun.venkatesh@gmail.com
+description: >- 
   This is the personal site of Dr Varun Venkatesh to host his exploits in learning how to woodwork and work with data using R
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://varunsvenkatesh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @BiologicalVarun
+twitter_username: BiologicalVarun
 github_username:  VarunSVenkatesh
 
 # Build settings
