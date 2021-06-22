@@ -22,7 +22,7 @@
 title: Working with wood and data
 email: varun.venkatesh@gmail.com
 description: >- 
-  This is the personal site of Dr Varun Venkatesh to host his exploits in learning how to woodwork and work with data using R
+  This is the personal site of Dr Varun Venkatesh to host his exploits in learning how to woodwork and, work with data using R
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://varunsvenkatesh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BiologicalVarun
